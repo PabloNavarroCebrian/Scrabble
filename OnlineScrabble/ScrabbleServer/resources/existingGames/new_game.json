@@ -1,0 +1,1125 @@
+
+{
+	"consecutive_turns_passed" : 0,
+
+	"current_turn": -1,
+
+	"words_in_board" : false,
+
+	"game_finished" : false,
+
+	"used_words": {
+		"words": []
+	}, 
+
+	"game_players": {
+		"players" : []
+	},
+
+	"game_tiles": {
+		"tiles": [
+			{
+				"letter": "A",
+				"points": 1
+			},
+			{
+				"letter": "A",
+				"points": 1
+			},
+			{
+				"letter": "A",
+				"points": 1
+			},
+			{
+				"letter": "A",
+				"points": 1
+			},
+			{
+				"letter": "A",
+				"points": 1
+			},
+			{
+				"letter": "A",
+				"points": 1
+			},
+			{
+				"letter": "A",
+				"points": 1
+			},
+			{
+				"letter": "A",
+				"points": 1
+			},
+			{
+				"letter": "A",
+				"points": 1
+			},
+			{
+				"letter": "B",
+				"points": 3
+			},
+			{
+				"letter": "B",
+				"points": 3
+			},
+			{
+				"letter": "C",
+				"points": 3
+			},
+			{
+				"letter": "C",
+				"points": 3
+			},
+			{
+				"letter": "D",
+				"points": 2
+			},
+			{
+				"letter": "D",
+				"points": 2
+			},
+			{
+				"letter": "D",
+				"points": 2
+			},
+			{
+				"letter": "D",
+				"points": 2
+			},
+			{
+				"letter": "E",
+				"points": 1
+			},
+			{
+				"letter": "E",
+				"points": 1
+			},
+			{
+				"letter": "E",
+				"points": 1
+			},
+			{
+				"letter": "E",
+				"points": 1
+			},
+			{
+				"letter": "E",
+				"points": 1
+			},
+			{
+				"letter": "E",
+				"points": 1
+			},
+			{
+				"letter": "E",
+				"points": 1
+			},
+			{
+				"letter": "E",
+				"points": 1
+			},
+			{
+				"letter": "E",
+				"points": 1
+			},
+			{
+				"letter": "E",
+				"points": 1
+			},
+			{
+				"letter": "E",
+				"points": 1
+			},
+			{
+				"letter": "E",
+				"points": 1
+			},
+			{
+				"letter": "F",
+				"points": 4
+			},
+			{
+				"letter": "F",
+				"points": 4
+			},
+			{
+				"letter": "G",
+				"points": 2
+			},
+			{
+				"letter": "G",
+				"points": 2
+			},
+			{
+				"letter": "G",
+				"points": 2
+			},
+			{
+				"letter": "H",
+				"points": 4
+			},
+			{
+				"letter": "H",
+				"points": 4
+			},
+			{
+				"letter": "I",
+				"points": 1
+			},
+			{
+				"letter": "I",
+				"points": 1
+			},
+			{
+				"letter": "I",
+				"points": 1
+			},
+			{
+				"letter": "I",
+				"points": 1
+			},
+			{
+				"letter": "I",
+				"points": 1
+			},
+			{
+				"letter": "I",
+				"points": 1
+			},
+			{
+				"letter": "I",
+				"points": 1
+			},
+			{
+				"letter": "I",
+				"points": 1
+			},
+			{
+				"letter": "I",
+				"points": 1
+			},
+			{
+				"letter": "J",
+				"points": 8
+			},
+			{
+				"letter": "K",
+				"points": 5
+			},
+			{
+				"letter": "L",
+				"points": 1
+			},
+			{
+				"letter": "L",
+				"points": 1
+			},
+			{
+				"letter": "L",
+				"points": 1
+			},
+			{
+				"letter": "L",
+				"points": 1
+			},
+			{
+				"letter": "M",
+				"points": 3
+			},
+			{
+				"letter": "M",
+				"points": 3
+			},
+			{
+				"letter": "N",
+				"points": 1
+			},
+			{
+				"letter": "N",
+				"points": 1
+			},
+			{
+				"letter": "N",
+				"points": 1
+			},
+			{
+				"letter": "N",
+				"points": 1
+			},
+			{
+				"letter": "N",
+				"points": 1
+			},
+			{
+				"letter": "N",
+				"points": 1
+			},
+			{
+				"letter": "O",
+				"points": 1
+			},
+			{
+				"letter": "O",
+				"points": 1
+			},
+			{
+				"letter": "O",
+				"points": 1
+			},
+			{
+				"letter": "O",
+				"points": 1
+			},
+			{
+				"letter": "O",
+				"points": 1
+			},
+			{
+				"letter": "O",
+				"points": 1
+			},
+			{
+				"letter": "O",
+				"points": 1
+			},
+			{
+				"letter": "O",
+				"points": 1
+			},
+			{
+				"letter": "P",
+				"points": 3
+			},
+			{
+				"letter": "P",
+				"points": 3
+			},
+			{
+				"letter": "Q",
+				"points": 10
+			},
+			{
+				"letter": "R",
+				"points": 1
+			},
+			{
+				"letter": "R",
+				"points": 1
+			},
+			{
+				"letter": "R",
+				"points": 1
+			},
+			{
+				"letter": "R",
+				"points": 1
+			},
+			{
+				"letter": "R",
+				"points": 1
+			},
+			{
+				"letter": "R",
+				"points": 1
+			},
+			{
+				"letter": "S",
+				"points": 1
+			},
+			{
+				"letter": "S",
+				"points": 1
+			},
+			{
+				"letter": "S",
+				"points": 1
+			},
+			{
+				"letter": "S",
+				"points": 1
+			},
+			{
+				"letter": "T",
+				"points": 1
+			},
+			{
+				"letter": "T",
+				"points": 1
+			},
+			{
+				"letter": "T",
+				"points": 1
+			},
+			{
+				"letter": "T",
+				"points": 1
+			},
+			{
+				"letter": "T",
+				"points": 1
+			},
+			{
+				"letter": "T",
+				"points": 1
+			},
+			{
+				"letter": "U",
+				"points": 1
+			},
+			{
+				"letter": "U",
+				"points": 1
+			},
+			{
+				"letter": "U",
+				"points": 1
+			},
+			{
+				"letter": "U",
+				"points": 1
+			},
+			{
+				"letter": "V",
+				"points": 4
+			},
+			{
+				"letter": "V",
+				"points": 4
+			},
+			{
+				"letter": "W",
+				"points": 4
+			},
+			{
+				"letter": "W",
+				"points": 4
+			},
+			{
+				"letter": "X",
+				"points": 8
+			},
+			{
+				"letter": "Y",
+				"points": 4
+			},
+			{
+				"letter": "Y",
+				"points": 4
+			},
+			{
+				"letter": "Z",
+				"points": 10
+			}
+		]
+	},
+
+	"game_board": {
+		"board": [
+			[
+				{
+					"special_effect": "TRIPLE_WORD"
+				},
+				{
+					
+				},
+				{
+					
+				},
+				{
+					"special_effect": "DOUBLE_LETTER"
+				},
+				{
+					
+				},
+				{
+					
+				},
+				{
+					
+				},
+				{
+					"special_effect": "TRIPLE_WORD"
+				},
+				{
+					
+				},
+				{
+					
+				},
+				{
+					
+				},
+				{
+					"special_effect": "DOUBLE_LETTER"
+				},
+				{
+					
+				},
+				{
+					
+				},
+				{
+					"special_effect": "TRIPLE_WORD"
+				}
+			],
+			[
+				{
+					
+				},
+				{
+					"special_effect": "DOUBLE_WORD"
+				},
+				{
+					
+				},
+				{
+					
+				},
+				{
+					
+				},
+				{
+					"special_effect": "TRIPLE_LETTER"
+				},
+				{
+					
+				},
+				{
+					
+				},
+				{
+					
+				},
+				{
+					"special_effect": "TRIPLE_LETTER"
+				},
+				{
+					
+				},
+				{
+					
+				},
+				{
+					
+				},
+				{
+					"special_effect": "DOUBLE_WORD"
+				},
+				{
+					
+				}
+			],
+			[
+				{
+					
+				},
+				{
+					
+				},
+				{
+					"special_effect": "DOUBLE_WORD"
+				},
+				{
+					
+				},
+				{
+					
+				},
+				{
+					
+				},
+				{
+					"special_effect": "DOUBLE_LETTER"
+				},
+				{
+					
+				},
+				{
+					"special_effect": "DOUBLE_LETTER"
+				},
+				{
+					
+				},
+				{
+					
+				},
+				{
+					
+				},
+				{
+					"special_effect": "DOUBLE_WORD"
+				},
+				{
+					
+				},
+				{
+					
+				}
+			],
+			[
+				{
+					"special_effect": "DOUBLE_LETTER"
+				},
+				{
+					
+				},
+				{
+					
+				},
+				{
+					"special_effect": "DOUBLE_WORD"
+				},
+				{
+					
+				},
+				{
+					
+				},
+				{
+					
+				},
+				{
+					"special_effect": "DOUBLE_LETTER"
+				},
+				{
+					
+				},
+				{
+					
+				},
+				{
+					
+				},
+				{
+					"special_effect": "DOUBLE_WORD"
+				},
+				{
+					
+				},
+				{
+					
+				},
+				{
+					"special_effect": "DOUBLE_LETTER"
+				}
+			],
+			[
+				{
+					
+				},
+				{
+					
+				},
+				{
+					
+				},
+				{
+					
+				},
+				{
+					"special_effect": "DOUBLE_WORD"
+				},
+				{
+					
+				},
+				{
+					
+				},
+				{
+					
+				},
+				{
+					
+				},
+				{
+					
+				},
+				{
+					"special_effect": "DOUBLE_WORD"
+				},
+				{
+					
+				},
+				{
+					
+				},
+				{
+					
+				},
+				{
+					
+				}
+			],
+			[
+				{
+					
+				},
+				{
+					"special_effect": "TRIPLE_LETTER"
+				},
+				{
+					
+				},
+				{
+					
+				},
+				{
+					
+				},
+				{
+					"special_effect": "TRIPLE_LETTER"
+				},
+				{
+					
+				},
+				{
+					
+				},
+				{
+					
+				},
+				{
+					"special_effect": "TRIPLE_LETTER"
+				},
+				{
+					
+				},
+				{
+					
+				},
+				{
+					
+				},
+				{
+					"special_effect": "TRIPLE_LETTER"
+				},
+				{
+					
+				}
+			],
+			[
+				{
+					
+				},
+				{
+					
+				},
+				{
+					"special_effect": "DOUBLE_LETTER"
+				},
+				{
+					
+				},
+				{
+					
+				},
+				{
+					
+				},
+				{
+					"special_effect": "DOUBLE_LETTER"
+				},
+				{
+					
+				},
+				{
+					"special_effect": "DOUBLE_LETTER"
+				},
+				{
+					
+				},
+				{
+					
+				},
+				{
+					
+				},
+				{
+					"special_effect": "DOUBLE_LETTER"
+				},
+				{
+					
+				},
+				{
+					
+				}
+			],
+			[
+				{
+					"special_effect": "TRIPLE_WORD"
+				},
+				{
+					
+				},
+				{
+					
+				},
+				{
+					"special_effect": "DOUBLE_LETTER"
+				},
+				{
+					
+				},
+				{
+					
+				},
+				{
+					
+				},
+				{
+					"special_effect": "CENTRE"
+				},
+				{
+					
+				},
+				{
+					
+				},
+				{
+					
+				},
+				{
+					"special_effect": "DOUBLE_LETTER"
+				},
+				{
+					
+				},
+				{
+					
+				},
+				{
+					"special_effect": "TRIPLE_WORD"
+				}
+			],
+			[
+				{
+					
+				},
+				{
+					
+				},
+				{
+					"special_effect": "DOUBLE_LETTER"
+				},
+				{
+					
+				},
+				{
+					
+				},
+				{
+					
+				},
+				{
+					"special_effect": "DOUBLE_LETTER"
+				},
+				{
+					
+				},
+				{
+					"special_effect": "DOUBLE_LETTER"
+				},
+				{
+					
+				},
+				{
+					
+				},
+				{
+					
+				},
+				{
+					"special_effect": "DOUBLE_LETTER"
+				},
+				{
+					
+				},
+				{
+					
+				}
+			],
+			[
+				{
+					
+				},
+				{
+					"special_effect": "TRIPLE_LETTER"
+				},
+				{
+					
+				},
+				{
+					
+				},
+				{
+					
+				},
+				{
+					"special_effect": "TRIPLE_LETTER"
+				},
+				{
+					
+				},
+				{
+					
+				},
+				{
+					
+				},
+				{
+					"special_effect": "TRIPLE_LETTER"
+				},
+				{
+					
+				},
+				{
+					
+				},
+				{
+					
+				},
+				{
+					"special_effect": "TRIPLE_LETTER"
+				},
+				{
+					
+				}
+			],
+			[
+				{
+					
+				},
+				{
+					
+				},
+				{
+					
+				},
+				{
+					
+				},
+				{
+					"special_effect": "DOUBLE_WORD"
+				},
+				{
+					
+				},
+				{
+					
+				},
+				{
+					
+				},
+				{
+					
+				},
+				{
+					
+				},
+				{
+					"special_effect": "DOUBLE_WORD"
+				},
+				{
+					
+				},
+				{
+					
+				},
+				{
+					
+				},
+				{
+					
+				}
+			],
+			[
+				{
+					"special_effect": "DOUBLE_LETTER"
+				},
+				{
+					
+				},
+				{
+					
+				},
+				{
+					"special_effect": "DOUBLE_WORD"
+				},
+				{
+					
+				},
+				{
+					
+				},
+				{
+					
+				},
+				{
+					"special_effect": "DOUBLE_LETTER"
+				},
+				{
+					
+				},
+				{
+					
+				},
+				{
+					
+				},
+				{
+					"special_effect": "DOUBLE_WORD"
+				},
+				{
+					
+				},
+				{
+					
+				},
+				{
+					"special_effect": "DOUBLE_LETTER"
+				}
+			],
+			[
+				{
+					
+				},
+				{
+					
+				},
+				{
+					"special_effect": "DOUBLE_WORD"
+				},
+				{
+					
+				},
+				{
+					
+				},
+				{
+					
+				},
+				{
+					"special_effect": "DOUBLE_LETTER"
+				},
+				{
+					
+				},
+				{
+					"special_effect": "DOUBLE_LETTER"
+				},
+				{
+					
+				},
+				{
+					
+				},
+				{
+					
+				},
+				{
+					"special_effect": "DOUBLE_WORD"
+				},
+				{
+					
+				},
+				{
+					
+				}
+			],
+			[
+				{
+					
+				},
+				{
+					"special_effect": "DOUBLE_WORD"
+				},
+				{
+					
+				},
+				{
+					
+				},
+				{
+					
+				},
+				{
+					"special_effect": "TRIPLE_LETTER"
+				},
+				{
+					
+				},
+				{
+					
+				},
+				{
+					
+				},
+				{
+					"special_effect": "TRIPLE_LETTER"
+				},
+				{
+					
+				},
+				{
+					
+				},
+				{
+					
+				},
+				{
+					"special_effect": "DOUBLE_WORD"
+				},
+				{
+					
+				}
+			],
+			[
+				{
+					"special_effect": "TRIPLE_WORD"
+				},
+				{
+					
+				},
+				{
+					
+				},
+				{
+					"special_effect": "DOUBLE_LETTER"
+				},
+				{
+					
+				},
+				{
+					
+				},
+				{
+					
+				},
+				{
+					"special_effect": "TRIPLE_WORD"
+				},
+				{
+					
+				},
+				{
+					
+				},
+				{
+					
+				},
+				{
+					"special_effect": "DOUBLE_LETTER"
+				},
+				{
+					
+				},
+				{
+					
+				},
+				{
+					"special_effect": "TRIPLE_WORD"
+				}
+			]
+		]
+	}
+}

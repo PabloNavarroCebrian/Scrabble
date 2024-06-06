@@ -1,0 +1,701 @@
+{
+  "consecutive_turns_passed": 8,
+  "current_turn": 1,
+  "game_board": {
+    "board": [
+      [
+        { "special_effect": "TRIPLE_WORD" },
+        {},
+        {},
+        { "special_effect": "DOUBLE_LETTER" },
+        {},
+        {},
+        {},
+        { "special_effect": "TRIPLE_WORD" },
+        {},
+        {},
+        {},
+        { "special_effect": "DOUBLE_LETTER" },
+        {},
+        {},
+        { "special_effect": "TRIPLE_WORD" }
+      ],
+      [
+        {},
+        { "special_effect": "DOUBLE_WORD" },
+        {},
+        {},
+        {},
+        { "special_effect": "TRIPLE_LETTER" },
+        {},
+        {},
+        {},
+        { "special_effect": "TRIPLE_LETTER" },
+        {},
+        {},
+        {},
+        { "special_effect": "DOUBLE_WORD" },
+        {}
+      ],
+      [
+        {},
+        {},
+        { "special_effect": "DOUBLE_WORD" },
+        {},
+        {},
+        {},
+        { "special_effect": "DOUBLE_LETTER" },
+        {},
+        { "special_effect": "DOUBLE_LETTER" },
+        {},
+        {},
+        {},
+        { "special_effect": "DOUBLE_WORD" },
+        {},
+        {}
+      ],
+      [
+        { "special_effect": "DOUBLE_LETTER" },
+        {},
+        {},
+        { "special_effect": "DOUBLE_WORD" },
+        {},
+        {},
+        {},
+        { "special_effect": "DOUBLE_LETTER" },
+        {},
+        {},
+        {},
+        { "special_effect": "DOUBLE_WORD" },
+        {},
+        {},
+        { "special_effect": "DOUBLE_LETTER" }
+      ],
+      [
+        {},
+        {},
+        {},
+        {},
+        { "special_effect": "DOUBLE_WORD" },
+        {},
+        {},
+        {},
+        {},
+        {},
+        { "special_effect": "DOUBLE_WORD" },
+        {},
+        {},
+        {},
+        {}
+      ],
+      [
+        {},
+        { "special_effect": "TRIPLE_LETTER" },
+        {},
+        {},
+        {},
+        { "special_effect": "TRIPLE_LETTER" },
+        {},
+        {},
+        {},
+        { "special_effect": "TRIPLE_LETTER" },
+        {},
+        {},
+        {},
+        { "special_effect": "TRIPLE_LETTER" },
+        {}
+      ],
+      [
+        {},
+        {},
+        { "special_effect": "DOUBLE_LETTER" },
+        {},
+        {},
+        {},
+        { "special_effect": "DOUBLE_LETTER" },
+        {
+          "tile": {
+            "letter": "A",
+            "points": 1
+          }
+        },
+        {
+          "tile": {
+            "letter": "R",
+            "points": 1
+          },
+          "special_effect": "DOUBLE_LETTER"
+        },
+        {},
+        {},
+        {},
+        { "special_effect": "DOUBLE_LETTER" },
+        {},
+        {}
+      ],
+      [
+        { "special_effect": "TRIPLE_WORD" },
+        {},
+        {},
+        { "special_effect": "DOUBLE_LETTER" },
+        {},
+        {},
+        {},
+        {
+          "tile": {
+            "letter": "L",
+            "points": 1
+          },
+          "special_effect": "CENTRE"
+        },
+        {
+          "tile": {
+            "letter": "O",
+            "points": 1
+          }
+        },
+        {},
+        {},
+        { "special_effect": "DOUBLE_LETTER" },
+        {},
+        {},
+        { "special_effect": "TRIPLE_WORD" }
+      ],
+      [
+        {},
+        {},
+        { "special_effect": "DOUBLE_LETTER" },
+        {},
+        {},
+        {},
+        { "special_effect": "DOUBLE_LETTER" },
+        {},
+        { "special_effect": "DOUBLE_LETTER" },
+        {},
+        {},
+        {},
+        { "special_effect": "DOUBLE_LETTER" },
+        {},
+        {}
+      ],
+      [
+        {},
+        { "special_effect": "TRIPLE_LETTER" },
+        {},
+        {},
+        {},
+        { "special_effect": "TRIPLE_LETTER" },
+        {},
+        {},
+        {},
+        { "special_effect": "TRIPLE_LETTER" },
+        {},
+        {},
+        {},
+        { "special_effect": "TRIPLE_LETTER" },
+        {}
+      ],
+      [
+        {},
+        {},
+        {},
+        {},
+        { "special_effect": "DOUBLE_WORD" },
+        {},
+        {},
+        {},
+        {},
+        {},
+        { "special_effect": "DOUBLE_WORD" },
+        {},
+        {},
+        {},
+        {}
+      ],
+      [
+        { "special_effect": "DOUBLE_LETTER" },
+        {},
+        {},
+        { "special_effect": "DOUBLE_WORD" },
+        {},
+        {},
+        {},
+        { "special_effect": "DOUBLE_LETTER" },
+        {},
+        {},
+        {},
+        { "special_effect": "DOUBLE_WORD" },
+        {},
+        {},
+        { "special_effect": "DOUBLE_LETTER" }
+      ],
+      [
+        {},
+        {},
+        { "special_effect": "DOUBLE_WORD" },
+        {},
+        {},
+        {},
+        { "special_effect": "DOUBLE_LETTER" },
+        {},
+        { "special_effect": "DOUBLE_LETTER" },
+        {},
+        {},
+        {},
+        { "special_effect": "DOUBLE_WORD" },
+        {},
+        {}
+      ],
+      [
+        {},
+        { "special_effect": "DOUBLE_WORD" },
+        {},
+        {},
+        {},
+        { "special_effect": "TRIPLE_LETTER" },
+        {},
+        {},
+        {},
+        { "special_effect": "TRIPLE_LETTER" },
+        {},
+        {},
+        {},
+        { "special_effect": "DOUBLE_WORD" },
+        {}
+      ],
+      [
+        { "special_effect": "TRIPLE_WORD" },
+        {},
+        {},
+        { "special_effect": "DOUBLE_LETTER" },
+        {},
+        {},
+        {},
+        { "special_effect": "TRIPLE_WORD" },
+        {},
+        {},
+        {},
+        { "special_effect": "DOUBLE_LETTER" },
+        {},
+        {},
+        { "special_effect": "TRIPLE_WORD" }
+      ]
+    ]
+  },
+  "game_finished": true,
+  "game_players": {
+    "players": [
+      {
+        "tiles": [
+          {
+            "letter": "E",
+            "points": 1
+          },
+          {
+            "letter": "L",
+            "points": 1
+          },
+          {
+            "letter": "O",
+            "points": 1
+          },
+          {
+            "letter": "Y",
+            "points": 4
+          },
+          {
+            "letter": "H",
+            "points": 4
+          },
+          {
+            "letter": "T",
+            "points": 1
+          },
+          {
+            "letter": "Q",
+            "points": 10
+          }
+        ],
+        "total_points": 2,
+        "name": "CPU 1",
+        "strategy": { "strategy_type": "easy_strategy" }
+      },
+      {
+        "tiles": [
+          {
+            "letter": "I",
+            "points": 1
+          },
+          {
+            "letter": "S",
+            "points": 1
+          },
+          {
+            "letter": "C",
+            "points": 3
+          },
+          {
+            "letter": "R",
+            "points": 1
+          },
+          {
+            "letter": "V",
+            "points": 4
+          },
+          {
+            "letter": "G",
+            "points": 2
+          },
+          {
+            "letter": "X",
+            "points": 8
+          }
+        ],
+        "total_points": 0,
+        "name": "CPU 2",
+        "strategy": { "strategy_type": "easy_strategy" }
+      },
+      {
+        "tiles": [
+          {
+            "letter": "T",
+            "points": 1
+          },
+          {
+            "letter": "D",
+            "points": 2
+          },
+          {
+            "letter": "T",
+            "points": 1
+          },
+          {
+            "letter": "U",
+            "points": 1
+          },
+          {
+            "letter": "N",
+            "points": 1
+          },
+          {
+            "letter": "J",
+            "points": 8
+          },
+          {
+            "letter": "S",
+            "points": 1
+          }
+        ],
+        "total_points": 2,
+        "name": "CPU 3",
+        "strategy": { "strategy_type": "easy_strategy" }
+      },
+      {
+        "tiles": [
+          {
+            "letter": "N",
+            "points": 1
+          },
+          {
+            "letter": "T",
+            "points": 1
+          },
+          {
+            "letter": "K",
+            "points": 5
+          },
+          {
+            "letter": "H",
+            "points": 4
+          },
+          {
+            "letter": "B",
+            "points": 3
+          },
+          {
+            "letter": "A",
+            "points": 1
+          },
+          {
+            "letter": "I",
+            "points": 1
+          }
+        ],
+        "total_points": 3,
+        "name": "CPU 4",
+        "strategy": { "strategy_type": "easy_strategy" }
+      }
+    ]
+  },
+  "game_tiles": {
+    "tiles": [
+      {
+        "letter": "A",
+        "points": 1
+      },
+      {
+        "letter": "A",
+        "points": 1
+      },
+      {
+        "letter": "A",
+        "points": 1
+      },
+      {
+        "letter": "A",
+        "points": 1
+      },
+      {
+        "letter": "A",
+        "points": 1
+      },
+      {
+        "letter": "A",
+        "points": 1
+      },
+      {
+        "letter": "A",
+        "points": 1
+      },
+      {
+        "letter": "B",
+        "points": 3
+      },
+      {
+        "letter": "C",
+        "points": 3
+      },
+      {
+        "letter": "D",
+        "points": 2
+      },
+      {
+        "letter": "D",
+        "points": 2
+      },
+      {
+        "letter": "D",
+        "points": 2
+      },
+      {
+        "letter": "E",
+        "points": 1
+      },
+      {
+        "letter": "E",
+        "points": 1
+      },
+      {
+        "letter": "E",
+        "points": 1
+      },
+      {
+        "letter": "E",
+        "points": 1
+      },
+      {
+        "letter": "E",
+        "points": 1
+      },
+      {
+        "letter": "E",
+        "points": 1
+      },
+      {
+        "letter": "E",
+        "points": 1
+      },
+      {
+        "letter": "E",
+        "points": 1
+      },
+      {
+        "letter": "E",
+        "points": 1
+      },
+      {
+        "letter": "E",
+        "points": 1
+      },
+      {
+        "letter": "F",
+        "points": 4
+      },
+      {
+        "letter": "F",
+        "points": 4
+      },
+      {
+        "letter": "G",
+        "points": 2
+      },
+      {
+        "letter": "G",
+        "points": 2
+      },
+      {
+        "letter": "I",
+        "points": 1
+      },
+      {
+        "letter": "I",
+        "points": 1
+      },
+      {
+        "letter": "I",
+        "points": 1
+      },
+      {
+        "letter": "I",
+        "points": 1
+      },
+      {
+        "letter": "I",
+        "points": 1
+      },
+      {
+        "letter": "I",
+        "points": 1
+      },
+      {
+        "letter": "I",
+        "points": 1
+      },
+      {
+        "letter": "L",
+        "points": 1
+      },
+      {
+        "letter": "L",
+        "points": 1
+      },
+      {
+        "letter": "M",
+        "points": 3
+      },
+      {
+        "letter": "M",
+        "points": 3
+      },
+      {
+        "letter": "N",
+        "points": 1
+      },
+      {
+        "letter": "N",
+        "points": 1
+      },
+      {
+        "letter": "N",
+        "points": 1
+      },
+      {
+        "letter": "O",
+        "points": 1
+      },
+      {
+        "letter": "O",
+        "points": 1
+      },
+      {
+        "letter": "O",
+        "points": 1
+      },
+      {
+        "letter": "O",
+        "points": 1
+      },
+      {
+        "letter": "O",
+        "points": 1
+      },
+      {
+        "letter": "P",
+        "points": 3
+      },
+      {
+        "letter": "P",
+        "points": 3
+      },
+      {
+        "letter": "R",
+        "points": 1
+      },
+      {
+        "letter": "R",
+        "points": 1
+      },
+      {
+        "letter": "R",
+        "points": 1
+      },
+      {
+        "letter": "S",
+        "points": 1
+      },
+      {
+        "letter": "S",
+        "points": 1
+      },
+      {
+        "letter": "T",
+        "points": 1
+      },
+      {
+        "letter": "U",
+        "points": 1
+      },
+      {
+        "letter": "U",
+        "points": 1
+      },
+      {
+        "letter": "U",
+        "points": 1
+      },
+      {
+        "letter": "V",
+        "points": 4
+      },
+      {
+        "letter": "W",
+        "points": 4
+      },
+      {
+        "letter": "W",
+        "points": 4
+      },
+      {
+        "letter": "Y",
+        "points": 4
+      },
+      {
+        "letter": "Z",
+        "points": 10
+      },
+      {
+        "letter": "E",
+        "points": 1
+      },
+      {
+        "letter": "R",
+        "points": 1
+      },
+      {
+        "letter": "O",
+        "points": 1
+      },
+      {
+        "letter": "N",
+        "points": 1
+      },
+      {
+        "letter": "T",
+        "points": 1
+      }
+    ]
+  },
+  "seed": 1389871984,
+  "used_words": { "words": [ "al", "ar", "lo", "ro" ] },
+  "words_in_board": true
+}

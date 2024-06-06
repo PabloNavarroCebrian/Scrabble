@@ -1,0 +1,23 @@
+package wordCheckers;
+
+import java.util.Map;
+
+import exceptions.CommandExecuteException;
+import logic.Game;
+
+/* APUNTES GENERALES
+   Esta clase comprueba que la dirección introducida sea vertical u horizontal.
+   En caso contrario, se lanza una excepción.
+ */
+public class DirectionChecker implements Checker {
+
+	
+	// Sobreescritura del método check
+	@Override
+	public void check(Game game, String word, int posX, int posY, String direction, Map<String, Integer> lettersNeeded)
+			throws CommandExecuteException {
+		if(!"V".equalsIgnoreCase(direction) && !"H".equalsIgnoreCase(direction))
+			throw new CommandExecuteException("El argumento de la dirección no es válido.");
+	}
+
+}
